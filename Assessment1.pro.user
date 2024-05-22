@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
+<<<<<<< HEAD
 <!-- Written by QtCreator 3.1.1, 2024-05-22T15:43:49. -->
+=======
+<!-- Written by QtCreator 3.1.1, 2024-05-22T09:19:59. -->
+>>>>>>> cef1d25a4fa7353e7918e90dab917c862707550e
 <qtcreator>
  <data>
   <variable>ProjectExplorer.Project.ActiveTarget</variable>
@@ -220,7 +224,11 @@
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Assessment1</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+<<<<<<< HEAD
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/Repositories/UNISA/COS2614/UNISA_COS2614_Assessment1/Assessment1.pro</value>
+=======
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/Repositories/UNISA/COS2614/Assessment1/Assessment1.pro</value>
+>>>>>>> cef1d25a4fa7353e7918e90dab917c862707550e
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">Assessment1.pro</value>
     <value type="bool" key="Qt4ProjectManager.Qt4RunConfiguration.UseDyldImageSuffix">false</value>
@@ -242,7 +250,11 @@
  </data>
  <data>
   <variable>ProjectExplorer.Project.Updater.EnvironmentId</variable>
+<<<<<<< HEAD
   <value type="QByteArray">{a8d54abf-bec5-4fda-b51f-3e8fc70007d8}</value>
+=======
+  <value type="QByteArray">{1988fa31-c9c2-4e15-92c3-939278ffae2d}</value>
+>>>>>>> cef1d25a4fa7353e7918e90dab917c862707550e
  </data>
  <data>
   <variable>ProjectExplorer.Project.Updater.FileVersion</variable>

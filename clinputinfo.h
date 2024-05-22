@@ -16,13 +16,19 @@ class clInputInfo : public QDialog
 
 public:
     explicit clInputInfo(QWidget *parent = 0);
+<<<<<<< HEAD
 
+=======
+>>>>>>> cef1d25a4fa7353e7918e90dab917c862707550e
     ~clInputInfo();
 
 private:
     Ui::clInputInfo *ui;
 
+<<<<<<< HEAD
 public slots:
+=======
+>>>>>>> cef1d25a4fa7353e7918e90dab917c862707550e
     void slotSaveBtnClicked();
     void slotCancelBtnClicked();
 
