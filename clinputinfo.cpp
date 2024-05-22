@@ -1,10 +1,7 @@
 #include "clinputinfo.h"
 #include "ui_clinputinfo.h"
-<<<<<<< HEAD
 #include <QStringList>
 #include <QMessageBox>
-=======
->>>>>>> cef1d25a4fa7353e7918e90dab917c862707550e
 
 clInputInfo::clInputInfo(QWidget *parent) :
     QDialog(parent),
@@ -21,7 +18,6 @@ clInputInfo::~clInputInfo()
 
 void clInputInfo::slotSaveBtnClicked()
 {
-<<<<<<< HEAD
     QString loInfo = ui->meEdtInput->text();//validation of the
     QStringList loList(loInfo.split(" "));
     QString loInitials = "";
@@ -51,9 +47,6 @@ void clInputInfo::slotSaveBtnClicked()
         msg.setText("Enter correct full name");
         msg.exec();
     }
-=======
-    std::cout << "save btn pressed" << std::endl;
->>>>>>> cef1d25a4fa7353e7918e90dab917c862707550e
 }
 
 void clInputInfo::slotCancelBtnClicked()
